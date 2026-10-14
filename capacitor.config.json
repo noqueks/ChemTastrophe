@@ -1,0 +1,7 @@
+{
+  "appId": "com.chemtastrophe.world",
+  "appName": "ChemTastrophe World",
+  "webDir": "www",
+  "backgroundColor": "#10131c",
+  "android": { "allowMixedContent": false }
+}
